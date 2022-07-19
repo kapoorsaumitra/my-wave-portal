@@ -1,0 +1,6 @@
+wave portal address: 0x0e9211A3dEd776f782e6ef0bDab618379B6cA0Db
+
+everytime you change contract
+    1.) run npx hardhat run svripts/deploy.js --network rinkeby
+    2.) save contract address and update it in the react folder
+    3.) update abi content from artifacts.
